@@ -1,0 +1,22 @@
+{
+  "userId": "123456789",
+  "botToken": "123456789:ABCdefGHIjklMNOpqrSTUvwxYZ", 
+  "targets": [
+    {
+      "id": "123456789",
+      "type": "user",
+      "status": "active"
+    },
+    {
+      "id": "-1009876543210",
+      "type": "group",
+      "status": "active"
+    },
+    {
+      "id": "-1001234567890",
+      "type": "channel",
+      "status": "active"
+    }
+  ],
+  "lastUpdated": "2024-06-01T12:00:00.000Z"
+}
